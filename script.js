@@ -1,0 +1,1 @@
+document.querySelector("footer p").textContent = "2026 Johnrex Magalona";
